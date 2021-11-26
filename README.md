@@ -10,7 +10,7 @@ Clone the repository from GitHub and open using Visual Studio Code.
 
 [Deployed Site]()
 
-![screenshot]()
+![screenshot](./pages/images/ScreenShot.jpg)
 
 # Credits
 
