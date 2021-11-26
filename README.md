@@ -8,9 +8,9 @@ Clone the repository from GitHub and open using Visual Studio Code.
 
 # Usage 
 
-[Deployed Site]()
+[Deployed Site](https://shannondukes.github.io/Shop-Shop/)
 
-![screenshot](./pages/images/ScreenShot.jpg)
+![screenshot](client\public\images\ScreenShot.jpg)
 
 # Credits
 
