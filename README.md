@@ -9,15 +9,15 @@ Clone the repository from GitHub and open using Visual Studio Code.
 # Usage 
 
 [Deployed Site](https://shannondukes.github.io/Shop-Shop/)
-![Deployed Site](client\public\images\herokuissues.jpg)
+![Deployed Site](client/public/images/herokuissues.jpg)
 
-![screenshot](client\public\images\ScreenShot.jpg)
-![screenshot](client\public\images\signuppage.jpg)
-![screenshot](client\public\images\successfullogin.jpg)
-![screenshot](client\public\images\cartitems.jpg)
-![screenshot](client\public\images\checkoutworking.jpg)
-![screenshot](client\public\images\SuccessonStripe.jpg)
-![screenshot](client\public\images\orderhistory.jpg)
+![screenshot](client/public/images/ScreenShot.jpg)
+![screenshot](client/public/images/signuppage.jpg)
+![screenshot](client/public/images/successfullogin.jpg)
+![screenshot](client/public/images/cartitems.jpg)
+![screenshot](client/public/images/checkoutworking.jpg)
+![screenshot](client/public/images/SuccessonStripe.jpg)
+![screenshot](client/public/images/orderhistory.jpg)
 
 # Credits
 
